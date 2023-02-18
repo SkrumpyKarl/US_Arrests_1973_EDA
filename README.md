@@ -1,7 +1,7 @@
 # US Arrests EDA
 This is an exploratory data analysis (EDA) titled UsArrests_EDA.ipynb, written in a VSC Jupyter Notebook. The notebook uses the following packages:
 
-## Requirted Libraries
+## Required Libraries
 The following libraries are required to run the code:
 - numpy
 - pandas
